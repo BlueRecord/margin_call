@@ -4,6 +4,8 @@ MARGIN CALL 최종 복구본
 1. 압축을 풉니다.
 2. Visual Studio 프로젝트 폴더에 있는 기존 파일들에 전부 덮어쓰기 합니다.
 3. Visual Studio에서 Ctrl + F5로 실행합니다.
+(또는 하위 클래스와 stock_game 클래스를 전부 컴파일 한 후 실행합니다.)
+main 실행 클래스는 stock_game입니다.
 
 포함된 내용:
 - MARGIN CALL 모니터 UI
